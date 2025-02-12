@@ -19,3 +19,15 @@ Para compilar la mini shell, usa el siguiente comando:
 
 ```bash
 gcc minishell.c libparser_64.a -o minishell
+```
+## Ejecucion
+Una vez compilado, ejecuta el siguiente comando para iniciar la mini shell:
+
+```bash
+./minishell
+```
+El prompt cambiará para indicar que estás dentro de minishell:
+
+```bash
+msh>
+```
